@@ -28,7 +28,7 @@ This project uses a combination of **remote sensing data (NDWI)** and **climate 
 
 | Dataset Type | Source | Duration |
 |--------------|--------|----------|
-| NDWI (Monthly Average) | Google Earth Engine (Landsat) | Jan 2010 – Dec 2024 |
+| NDWI (Monthly Average) | CSV Format | Jan 2010 – Dec 2024 |
 | Rainfall (mm) | CSV Format | Jan 2010 – Jan 2024 |
 | Temperature (Tmax & Tmin in °C) | CSV Format | Jan 2010 – Jan 2024 |
 
