@@ -1,0 +1,1 @@
+# Water-Resource-Monitoring-Prediction-Using-NDWI-Rainfall-and-Temperature-Data
